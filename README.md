@@ -12,3 +12,6 @@
  ## Step 3
 
  docker run --name oracle -p 1521:1521 -p 5500:5500 -v /Users/{user}/idocker/oradata:/opt/oracle/oradata oracle/database:12.2.0.1-ee
+
+## Image is available on Docker Hub:
+https://hub.docker.com/repository/docker/zhenzhenman/oracle12
