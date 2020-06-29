@@ -4,6 +4,7 @@
  ## Step 1.
  get docker images here:
  https://github.com/oracle/docker-images
+ 
  cd docker-images/OracleDatabase/SingleInstance/dockerfiles
 
  ## Step 2
