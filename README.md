@@ -2,7 +2,8 @@
  This is an Oracle image can be built and Running on MacOS Docker.
  Please make sure Docker is running before step 2.
  ## Step 1.
-
+ get docker images here:
+ https://github.com/oracle/docker-images
  cd docker-images/OracleDatabase/SingleInstance/dockerfiles
 
  ## Step 2
