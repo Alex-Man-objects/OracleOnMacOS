@@ -9,7 +9,9 @@
 
  ## Step 2
  http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html
-download a oracle database and place it in the equvilent version folder, such as 12.2.0.1, then run below command.
+ 
+ download a oracle database and place it in the equvilent version folder, such as 12.2.0.1, then run below command.
+
 ./buildDockerImage.sh -v 12.2.0.1 -e
 
  ## Step 3
